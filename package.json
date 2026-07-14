@@ -1,5 +1,6 @@
 {
 	"name": "poc-reader",
+	"packageManager": "pnpm@9.0.0",
 	"private": true,
 	"version": "0.0.1",
 	"type": "module",
